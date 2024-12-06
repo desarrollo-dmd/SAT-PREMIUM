@@ -1,0 +1,51 @@
+# <p align="center"> Back-Sat </p>
+
+<p align="center"> 
+<img src="https://github.com/user-attachments/assets/bf9f2777-dddb-4585-833e-fe938d58511f" alt="Descripción de la imagen" width="400">
+</p>
+
+# 💻 Tecnologías Utilizadas:
+### ➜ Back-End
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Zod](https://img.shields.io/badge/zod-%231E1E2E.svg?style=for-the-badge&logoColor=white) ![Sequelize](https://img.shields.io/badge/sequelize-%230084B2.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+
+
+   
+### ➜ Extras
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![DBeaver](https://img.shields.io/badge/dbeaver-%23000000.svg?style=for-the-badge&logo=dbeaver&logoColor=white) ![Visual Studio](https://img.shields.io/badge/visual%20studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+***
+### <h3 id="instalacion_y_ejecucion">🗂️ Instalación y ejecución del proyecto localmente.</h3>
+<p>Se explica un paso a paso de comandos a ejecutar para lograr instalar y ejecutar el proyecto de manera local.</p>
+
+_Clonar el proyecto_
+```
+git clone https://github.com/desarrollo-dmd/Back-SAT.git
+```
+<br>
+
+_Ir a la raíz del proyecto
+```
+cd Back-SAT
+```
+Instalar sus dependencias
+```
+npm install
+```
+<br>
+
+_Levantar el proyecto localmente
+```
+npm run dev (o npm start)
+```
+<br>
+
+_Ir a  `http://localhost:5173/` en su navegador para visualizar el proyecto._
+
+_Proximamente existirá un link de acceso público (Deployment)._
+
+***
+### <h3 id="diseño_funcional">🚀 Cantidad de visitas.</h3>
+
+---
+[![](https://visitcount.itsvg.in/api?id=dasda&icon=0&color=0)](https://visitcount.itsvg.in)
